@@ -1,7 +1,4 @@
-Phishing is a type of cybercrime where attackers try to trick people into sharing sensitive information such as passwords, OTPs, or bank details. This usually happens through fake emails, messages, or websites that look like trusted sources like banks or social media platforms.
-
-In a typical phishing attack, the user receives a message saying there is an urgent issue with their account. The message contains a link that redirects to a fake website. When the user enters their details, the attacker collects the information and misuses it.
-
-Students and online users are common targets because they often click on links without verifying them. The consequences can include loss of money, identity theft, and unauthorized access to personal accounts.
-
-Phishing is dangerous because it relies on human error rather than technical weakness. Awareness and careful behavior can help prevent such attacks.
+Phishing is a type of cybercrime in which attackers impersonate legitimate organizations to trick individuals into revealing sensitive information such as passwords, bank details, or OTPs.A typical phishing attack begins when a victim receives a fake email, message, or link that appears to be from a trusted source like a bank or online service. The message often creates urgency such as warning about account suspension or offering rewards. The victim is asked to click on a link which redirects them to a fake website that looks real. When the user enters their login details or personal information, the attacker captures the data.
+Phishing attacks usually target students, working professionals, and online users who frequently use banking, social media, or e-commerce platforms. Lack of awareness and urgency make people more vulnerable.
+The consequences of phishing include financial loss, identity theft, unauthorized access to accounts, and misuse of personal data. Victims may lose money or have their accounts hacked, causing both emotional stress and reputational damage.
+To prevent phishing, users should verify email senders, avoid clicking suspicious links, enable two-factor authentication, and never share sensitive information online. Awareness and caution are the best defenses against phishing attacks.
